@@ -1,4 +1,4 @@
-### Hi! I am Andrimarciely.🖖 I love Math & IT.
+### Hi! 🖖
 
 
 ![Andrimarciely's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrimarciely&show_icons=true&theme=synthwave)
