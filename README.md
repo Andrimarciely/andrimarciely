@@ -1,4 +1,7 @@
-### Hi there 👋
+### Oi! Eu sou Andrimarciely, mas pode me chamar de Andri, Andry, Marciely ou como preferir. 🖖
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrimarciely/)[![Twitter]()]()[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrimarciely/)
+
+![Andrimarciely's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrimarciely&show_icons=true&theme=radical)
 
 <!--
 **Andrimarciely/andrimarciely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
